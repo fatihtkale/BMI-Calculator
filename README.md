@@ -1,5 +1,5 @@
 # BMI-Calculator
-Small BMI calculator made in JavaScript
+Small BMI calculator made in JavaScript, with electron (works without electron plugin)
 
 # How to install
 ```
