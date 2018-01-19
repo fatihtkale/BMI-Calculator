@@ -1,4 +1,4 @@
-# BMI-Calculator <img src="https://travis-ci.org/fatihtkale/BMI-Calculator.svg?branch=master">
+# BMI-Calculator
 Small BMI calculator made in JavaScript, with electron (works without electron plugin)
 
 # How to install
